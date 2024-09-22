@@ -19,3 +19,5 @@ vendor/
 
 # VSCode Dev Containers configuration
 .devcontainer/
+
+result
